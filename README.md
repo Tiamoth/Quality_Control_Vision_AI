@@ -41,6 +41,6 @@ The confusion matrix below shows the model's excellent performance in production
 * **Caught 95% of Defects:** The model correctly identified 429 out of 453 defective parts (`Actual def_front`).
 * **Identified 82% of Good Parts:** It correctly identified 215 out of 262 good parts (`Actual ok_front`).
 
-![Confusion Matrix for Casting Quality](your-confusion-matrix-image.png)
+![Confusion Matrix for Casting Quality](confusion_matrix.png)
 
 This project demonstrates a complete, end-to-end pipeline for building and deploying a deep-learning model for industrial quality control.
